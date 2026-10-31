@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Zozobrado
+Student ID: TUPM-26-1872
+Seed Digit: 2
+ID Sum: 26
+Verification Value: 236
+Dataset Sample Size: 76
+Valid Records: 76
+Average Global Active Power: 4.017
+JSON File: Zozobrado_TUPM-26-1872_record.json
+Backup File: Zozobrado_TUPM-26-1872_record.csv
