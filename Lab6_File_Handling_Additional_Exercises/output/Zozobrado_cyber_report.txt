@@ -1,0 +1,11 @@
+Target Year: 2017
+Incidents: 319
+Total Loss: 16261.68M | Average: 50.98M
+Attack Counts: {'Man-in-the-Middle': 58, 'DDoS': 58, 'Phishing': 64, 'SQL Injection': 49, 'Malware': 46, 'Ransomware': 44}
+Top 5 Costliest:
+  SQL Injection | Australia | 99.99
+  Malware | Brazil | 99.22
+  SQL Injection | UK | 98.75
+  DDoS | USA | 98.73
+  DDoS | Germany | 98.61
+Files: Zozobrado_cyber_filtered.csv, Zozobrado_cyber_top5.json | Backup exists: True
